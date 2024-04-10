@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Hello, World!</title>
+
+
+  <form>
+  <fieldset>
+    <h1>
+    <legend>Bank Account Opening Form</legend>
+      </h1>
+    <label for="fname">Full Name:</label>
+    <input type="text" id="fname" name="fullname"><br><br>
+    
+     <label for="email">Email:</label>
+    <input type="email" id="email" name="email"><br><br>
+    
+    <label for="contact">Phone No:</label>
+    <input type="tel" id="contact" name="Phone No:"><br><br>
+    
+    <label for="dob">Date of Birth:</label>
+    <input type="date" id="dob" name="dob"><br><br>
+    
+    <label for="ID">ID proof:</label><br>
+    <input type="radio" id="Aadhar card" name="ID" value="Aadhar card"> Aadhar card
+    <input type="radio" id="PAN card" name="ID" value="PAN card"> PAN card
+    <input type="radio" id="Driving licence" name="ID" value="Driving licence"> Driving licence<br><br>
+    
+    <label for="Address">Address proof:</label><br>
+     <input type="radio" id="Aadhar card" name="Address" value="Aadhar card"> Aadhar card
+     <input type="radio" id="Passport" name="Address" value="Passlort"> Passport
+     <input type="radio" id="Light Bill" name="Address" value="Light Bill"> Light Bill
+     <input type="radio" id="Telephone Bil" name="Address" value="Telephone Bill"> Telephone Bill<br><br>
+    
+    <button type="submit">submit</button>
+  </fieldset>
+</form>
+
+</body>
+</html>
