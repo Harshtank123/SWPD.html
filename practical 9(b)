@@ -3,7 +3,7 @@
 <html>
 <head>
   <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
-  <title>Hello, World!</title>
+  
 
   <fieldset>
   <form>
@@ -22,7 +22,7 @@
 <fieldset>
 <h2>Faculty and Subject Info</h2>
    
-  <label for="faculty name">Subject Selection:</label>
+  <label for="faculty name">Faculty name:</label>
   <input type="text" id="Faculty name" name="faculty name" value="AMG"><br><br>
   
          
