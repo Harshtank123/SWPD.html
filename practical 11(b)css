@@ -1,0 +1,15 @@
+body{
+  background-color: lightcoral;
+  
+}
+
+h1{
+  color: purple;
+}
+label{
+  color: lightgreen;
+}
+button{
+  background-color: gold;
+}
+
