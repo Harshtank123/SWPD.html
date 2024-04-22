@@ -1,0 +1,14 @@
+body{
+  background-color: lightblue;
+  
+}
+
+h1{
+  color: blue;
+}
+label{
+  color: red;
+}
+button{
+  background-color: lightcoral;
+}
